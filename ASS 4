@@ -1,0 +1,32 @@
+HADOOP IN LAYMAN TERM:
+      
+                    Hadoop has two main components.They are 
+                    1)HDFS-For storage.
+                    2)MAP REDUCE-For processing.
+  
+HDFS:
+                       * HDFS is a scalable, fault-tolerant, distributed storage system that works closely with a wide variety of concurrent data access applications, coordinated by YARN. HDFS works under a variety of physical and systemic circumstances.
+                       
+                       * Some of the features of HDFS are
+                       
+                        1)It is suitable for the distributed storage and processing.
+                        2)Hadoop provides a command interface to interact with HDFS.
+                        3)The built-in servers of namenode and datanode help users to easily check the status of cluster.
+                        4)Streaming access to file system data.
+                        5)HDFS provides file permissions and authentication.
+MAP REDUCE:
+                        * MapReduce is a Java-based system created by Google where the actual data from the HDFS store gets processed efficiently. MapReduce breaks down a big data processing job into smaller tasks.
+                        * It is a Distributed Data Processing or Batch Processing Programming Model. Like HDFS, MapReduce component also uses Commodity Hardware to process “High Volume of Variety of Data at High Velocity Rate” in a reliable and fault-tolerant manner.
+                        * There are two ways in which processing can be done.They are pig and Hive.
+       Pig:
+       
+       * Pig is an abstraction over MapReduce. 
+       * It is a tool/platform which is used to analyze larger sets of data representing them as data flows.
+       * we can perform all the data manipulation operations in Hadoop using Pig.
+       Hive:
+       
+       * Hive is an open-source data warehouse system for querying and analyzing large datasets stored in Hadoop files. 
+       * It resides on top of Hadoop to summarize Big Data, and makes querying and analyzing easy.
+       
+  2)COMPONENTS OF HADOOP FRAME WORK:
+  
