@@ -30,3 +30,46 @@ MAP REDUCE:
        
   2)COMPONENTS OF HADOOP FRAME WORK:
   
+1) Hadoop Distributed File System – Abbreviated as HDFS, it is primarily a file system similar to many of the already existing ones. However, it is also a virtual file system.
+
+2) Hadoop MapReduce – MapReduce is mainly the programming aspect of Hadoop that allows processing of large volumes of data.
+
+
+3)HBASE – HBASE happens to be a layer that sits atop the HDFS and has been developed by means of the Java programming language. HBASE primarily has the following aspects –
+
+            1)Non relational
+            2)Highly scalable
+            3)Fault tolerance
+Every single row that exists in HBASE is identified by means of a key. The number of columns is also not defined, but rather grouped into column families.
+
+4)Zookeeper – This is basically a centralized system that maintains –Configuration information,Naming information,Synchronization information.
+Besides these, Zookeeper is also responsible for group services and is utilized by HBASE. It also comes to use for MapReduce programs.
+
+5)Solr/Lucene – This is nothing but a search engine. Its libraries are developed by Apache and required over 10 years to be developed in its present robust form.
+
+6)Programming Languages – There are basically two programming languages that are identified as original Hadoop programming languages,
+
+                              1)Hive
+                              2)PIG
+Besides these, there are a few other programming languages that can be used for writing programs, namely C, JAQL and Java. We can also make direct usage of SQL for interaction with the database, although that requires the use of standard JDBC or ODBC drivers.
+  
+  
+  
+  
+ 
+  3)REASONS TO LEARN BIG DATA TECHNOLOGIES:
+  BUSINESS REASONS:
+                        * A new style of IT is emerging.This technology captures everything in internet in a real-time environment.
+                        * This technology captures even clicks made on the internet and makes money by analyzing the data obtained.
+                        * MNC'S requires such data so that they can improve their productivity,sales and service.
+                        * Hence it is highly beneficial to learn big data technologies.
+   PERSONAL REASONS:
+                        
+                        Demand for Big Data skills is extremely high and new jobs are ahead. 
+                        
+            • 64% of IT hiring managers rate skilled big data knowledge as having extremely high or high value when rating expertise of candidates; this is
+based on a survey by CompTIA.
+            • According to Forbes, the median advertised salary for professionals with Big Data expertise is $124,000 a year.
+            • IBM, Cisco, and Oracle together advertised 26,488 open positions that required Big Data expertise in the last twelve months.
+
+  
